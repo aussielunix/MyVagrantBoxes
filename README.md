@@ -31,9 +31,20 @@ vagrant destroy
 # Requirements
 
 To use this you will need [Oracle's Virtualbox](http://www.virtualbox.org/), [vagrant](http://vagrantup.com) and git.
-You will also need some base boxes. You can create your own ( see [veewee](https://github.com/jedi4ever/veewee) )or grab some from [Vagrantboxes](http://www.vagrantbox.es/)
+You will also need some base boxes.  
+You can create your own ( see [veewee](https://github.com/jedi4ever/veewee) ) or grab some from [Vagrantboxes](http://www.vagrantbox.es/)
 
-Author::  Mick Pollard (aussielunix at g mail dot com)
-Copyright:: Copyright (c) 2012 by Mick Pollard
-License:: Distributed under the Apache License, see COPYING
-twitter:: @aussielunix
+<table>
+  <tr>
+    <th>Author</th><td>Mick Pollard (aussielunix at g mail dot com</td>
+  </tr>
+  <tr>
+    <th>Copyright</th><td>Copyright (c) 2012 by Mick Pollard</td>
+  </tr>
+  <tr>
+    <th>License</th><td>Distributed under the Apache License, see COPYING</td>
+  </tr>
+  <tr>
+    <th>twitter </th><td>@aussielunix</td>
+  </tr>
+</table>
