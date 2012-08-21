@@ -2,9 +2,9 @@
 
 # Introduction
 
-In here you will find a collection of vaggrantfile's for quick booting of a variety of OS's.  
-How many times have you wondered where a file lives in a particular distro or
-packagename etc ?  
+In here you will find a collection of Vagrantfile's for quick booting of a variety of OS's.  
+How many times have you wondered where a file lives in a particular distro or a packagename etc ?  
+Other uses include cross platform testing of puppet / chef modules.
 
 # Workflow
 
